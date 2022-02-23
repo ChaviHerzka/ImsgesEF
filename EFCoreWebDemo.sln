@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesEF.Web", "EFCoreWebDemo.Web\ImagesEF.Web.csproj", "{792C50CF-0C80-4C9F-8F0A-A87F7C888447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesEF.Data", "EFCoreWebDemo.Data\ImagesEF.Data.csproj", "{92D9F479-CA53-453F-8005-11DA24706ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792C50CF-0C80-4C9F-8F0A-A87F7C888447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792C50CF-0C80-4C9F-8F0A-A87F7C888447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792C50CF-0C80-4C9F-8F0A-A87F7C888447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792C50CF-0C80-4C9F-8F0A-A87F7C888447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D9F479-CA53-453F-8005-11DA24706ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D9F479-CA53-453F-8005-11DA24706ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D9F479-CA53-453F-8005-11DA24706ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D9F479-CA53-453F-8005-11DA24706ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245EEC20-5E6D-4A19-BF0B-250DED9500E0}
+	EndGlobalSection
+EndGlobal
